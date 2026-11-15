@@ -2,6 +2,10 @@
 
 MS in Computer Science at Northeastern (graduating May 2027), working on ML systems, RAG, and backend engineering.
 
+## Achievements
+
+- 1st place, Track 2 (Evidence Navigator), AI Healthcare Hackathon at Northeastern (The Open Accelerator × OncoSys AI), Nov 2026, with team TechMinds. Built [SecondOpinion](https://github.com/all3n2601/SecondOpinion), a tool that fact-checks cancer research reports against the TCGA-BRCA breast cancer data: every number and verdict is computed by code, and anything it can't verify is flagged.
+
 ## Featured projects
 
 | Project | What it is |
